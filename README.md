@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PHP API Client
 
 Reusable API client written in PHP.
@@ -14,3 +15,7 @@ Reusable API client written in PHP.
 
 ```php
 $client->get("/posts", ["userId"=>1]);
+=======
+# php-api-client
+Reusable PHP API client with retry and cache
+>>>>>>> cea0075bd2cc24f0f5b605b9b75773cd3376d8f8
